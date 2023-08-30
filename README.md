@@ -9,7 +9,7 @@ its a fork from https://github.com/squareetlabs/ionic-rating-component
 ## Step 1
 
 ### Install it
-```npm i ionic-rating-component```
+```npm i ionic7-rating-component```
 
 
 ### You can use it multiple times in one page and get the modified rating value in the parent component as follows
@@ -466,7 +466,7 @@ Run `ng test ionic-rating` to execute the unit tests via [Karma](https://karma-r
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Credits
-- [SourceSOlutions](https://github.com/ssolutions365)
+- [SourceSolutions](https://github.com/ssolutions365)
 - [All Contributors](../../contributors)
 
 ## License
