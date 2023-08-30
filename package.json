@@ -1,0 +1,43 @@
+{
+    "name": "ionic7-rating-component",
+    "description": "Highly customizable ionic 7 component to display evaluations or a quick rating operation of something.",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ssolutions365/ionic7-rating-component.git"
+    },
+    "keywords": [
+        "ionic7 rating",
+        "ionic  rating",
+        "rating ionic",
+        "rating ionic7",
+        "rating angular10",
+        "ionic 7 rating",
+        "ionic7-rating",
+        "ionic-rating",
+        "ionic-rating-component",
+        "ionic7",
+        "ionic 7 rating"
+    ],
+    "author": {
+        "name": "Jefferson Quintero quinterpriest@gmail.com",
+        "url": "https://source-solutions.co"
+    },
+    "contributors": [{
+            "name": "Jefferson Quintero",
+            "email": "quinterpriest@gmail.com",
+            "url": "https://source-solutions.co"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/ssolutions365/ionic7-rating-component",
+    "peerDependencies": {
+        "@angular/common": "^16.0.0",
+        "@angular/core": "^16.0.0",
+        "@angular/forms": "^16.0.0",
+        "@ionic/angular": "^5.0.0 || ^6.0.0 || ^7.0.0"
+    },
+    "dependencies": {
+        "tslib": "^2.3.0"
+    }
+}
